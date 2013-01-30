@@ -1,4 +1,4 @@
-![P](http://piraso.org/piraso_32.png)iraso Client [![Build Status](https://buildhive.cloudbees.com/job/piraso/job/piraso-client/badge/icon)](https://buildhive.cloudbees.com/job/piraso/job/piraso-client/)
+![P](http://piraso.org/piraso_32.png)iraso Client Application [![Build Status](https://buildhive.cloudbees.com/job/piraso/job/piraso-client-app/badge/icon)](https://buildhive.cloudbees.com/job/piraso/job/piraso-client-app/)
 ====
 
 ### Introduction
