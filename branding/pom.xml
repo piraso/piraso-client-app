@@ -28,7 +28,7 @@
   <artifactId>piraso-client-branding</artifactId>
   <packaging>nbm</packaging>
 
-  <name>piraso-client - branding</name>
+  <name>piraso-client-branding</name>
 
   <dependencies>
     <dependency>

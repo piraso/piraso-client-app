@@ -31,7 +31,7 @@
   <artifactId>piraso-client-app</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>piraso-client-app - parent</name>
+  <name>piraso-client-app-parent</name>
   <url>http://www.piraso.org/</url>
 
   <licenses>

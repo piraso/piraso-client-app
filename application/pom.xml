@@ -29,7 +29,7 @@
   <artifactId>piraso-client-application</artifactId>
   <packaging>nbm-application</packaging>
 
-  <name>piraso-client - application</name>
+  <name>piraso-client-application</name>
 
   <properties>
     <netbeans.run.params.ide/>
@@ -67,6 +67,11 @@
       <groupId>org.piraso</groupId>
       <artifactId>piraso-client-log4j</artifactId>
       <version>${piraso.client.log4j.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.piraso</groupId>
+      <artifactId>piraso-client-jspringbot</artifactId>
+      <version>${piraso.client.jspringbot.version}</version>
     </dependency>
   </dependencies>
 
